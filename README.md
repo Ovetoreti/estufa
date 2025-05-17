@@ -1,6 +1,6 @@
 # Estufa - Plataforma Pessoal para Moranguetes
 
-**Estufa** é uma plataforma desenvolvida para ajudar você e seus amigos, os **Morangutes**, a se manterem motivados na academia, além de facilitar o controle de dívidas entre os membros. A proposta é criar um ambiente interativo onde todos possam compartilhar seus progressos e se organizar de forma prática e divertida.
+**Estufa** é uma plataforma desenvolvida para ajudar você e seus amigos, os **Moranguetes**, a se manterem motivados na academia, além de facilitar o controle de dívidas entre os membros. A proposta é criar um ambiente interativo onde todos possam compartilhar seus progressos e se organizar de forma prática e divertida.
 
 ## Funcionalidades
 
@@ -54,4 +54,4 @@ Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE)
 
 ---
 
-**Estufa** foi criada para manter os **Morangutes** motivados e organizados, seja no treino ou nas finanças entre amigos. Bora juntos nessa jornada! 💪🍓
+**Estufa** foi criada para manter os **Moranguetes** motivados e organizados, seja no treino ou nas finanças entre amigos. Bora juntos nessa jornada! 💪🍓
